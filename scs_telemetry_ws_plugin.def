@@ -1,0 +1,4 @@
+LIBRARY scs_telemetry_ws_plugin
+EXPORTS
+    scs_telemetry_init
+    scs_telemetry_shutdown
